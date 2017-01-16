@@ -1,7 +1,15 @@
 ---
-title: Cross sell i2b to retail and SME customers - Analytics in Digital Banking
+title: Cross sell i2b to retail and SME customers
+subtitle: 
 layout: page
+tag: CBD, IBD, RBD
+bigimg: /img/banners/big_epi_image.jpg
 ---
+
+*Data scientists*: Anh Hoang Duc
+*BI supporters*: Nguyen Thi Nhu Quynh (CBD), Nguyen Thu Trang (RBD)
+*Advisers*: Tran Thu Trang, Pham Ngoc Thuan, Anh Hoang Duc
+
 ## Challenge 
 
   As part of its overall digitalization efforts, VPBank is focused on migrating more and more customers from traditional channels to 
@@ -18,8 +26,8 @@ layout: page
   
 ## Results and Recommendations
 
-The basket analysis revealed most potential scenarios (11 for retail and 26 for SME) of customer product holding which will lead to a customer buying i2b. 
-Based on these scenarios, BICC recommended to target 34,880 and 3,560 customers from retail and SME respectively. 
+The basket analysis revealed most potential scenarios of customer product holding which will lead to a customer buying internet banking product. 
+Based on these scenarios, BICC recommended to target more than 30K and almost 4K customers from retail and SME respectively. 
 In addition to this, BICC also recommended the product teams to create product bundles for future acquisition based on these scenarios. 
 
 ## Implementation and Business Impact
@@ -37,6 +45,6 @@ In addition to this, BICC also recommended the product teams to create product b
 ### Business Impact
 
 BICC estimate the TOI impact after converting all potential retail and SME customers is: **52 Billion VND per year**. 
-As of 20 Sep, 2016, a total of 1,290 retail and SME customers have been converted to i2b already (3% conversion rate), 
+As of 20 Sep, 2016, a total of 1,290 retail and SME customers have been converted to i2b already (3% conversion rate - **3 times** higher than normal), 
 bringing in 1.5 Billion VND of total TOI impact.
 bringing in 1.5 Billion VND of total TOI impact.
