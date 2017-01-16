@@ -9,7 +9,7 @@ tutorials-list:
     desc: Basic introduction to R,  including factors, lists and data frames, created by Anh Hoang Duc, cooperated with DataCamp
 cheatsheet-list:
   - name: Base R cheatsheet
-    img: /img/tutorials/r2.jpg
+    img: /img/tutorials/r-2.jpg
     url:  https://www.rstudio.com/wp-content/uploads/2016/07/Base-R-Vietnamese.pdf
     desc: Basic syntax and object in R, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
   - name: Data manipulation in R with TIDY & DPLYR cheatsheet
