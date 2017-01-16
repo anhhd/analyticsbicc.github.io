@@ -7,10 +7,22 @@ tutorials-list:
     img: /img/tutorials/intro-to-r.png
     url:  https://www.datacamp.com/community/open-courses/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C6%A1-b%E1%BA%A3n-v%E1%BB%81-r
     desc: Basic introduction to R,  including factors, lists and data frames, created by Anh Hoang Duc, cooperated with DataCamp
-  - name: Data Manipulation cheatsheet
+  - name: Base R cheatsheet
     img: /img/tutorials/intro-to-r.png
-    url:  resources/data-manipulation.pdf
-    desc: Basic introduction to R,  including factors, lists and data frames, created by Anh Hoang Duc, cooperated with DataCamp
+    url:  https://www.rstudio.com/wp-content/uploads/2016/07/Base-R-Vietnamese.pdf
+    desc: Basic syntax and object in R, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
+  - name: Data manipulation in R cheatsheet
+    img: /img/tutorials/intro-to-r.png
+    url:  https://www.rstudio.com/wp-content/uploads/2016/03/Data-Wrangling-Cheatsheet-Vietnamese.pdf
+    desc: Grammar of data manipulation with TIDY & DPLYR, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
+  - name: Data manipulation in R cheatsheet
+    img: /img/tutorials/intro-to-r.png
+    url:  https://www.rstudio.com/wp-content/uploads/2016/03/ggplot2-cheatsheet-2.0-Vietnamese.pdf
+    desc: Make grammar of graphics easy with GGPLOT2, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
+  - name: Reproducible research with Rmarkdown cheatsheet
+    img: /img/tutorials/intro-to-r.png
+    url:  https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-Vietnamese.pdf
+    desc: All you need to know to make reproducible research, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
 devel-list:
   - name: Best practices
     img: /img/devel/purple.png
@@ -25,7 +37,7 @@ devel-list:
 ---
 
 
-# Tutorials
+# Tutorials & cheatsheets
 
 {% include list-circles.html items=page.tutorials-list %}
 
