@@ -11,8 +11,7 @@ rbd-list:
 ibd-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
-    github: http://github.com/annecori/EpiEstim
-    url: http://github.com/annecori/EpiEstim
+    url: /Case studies/basket-analysis.md
     img: /img/projects/purple.png
 cbd-list:
   - name: cleanr
