@@ -4,7 +4,7 @@ bigimg: /img/banners/devel.jpg
 recon-list:
   - name: Basket Analysis
     desc: Collection of outbreak data.
-    url: /IBD/2017-01-16-basket-analysis
+    url: 2017-01-16-basket-analysis
     img: /img/projects/blue.png
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
