@@ -1,6 +1,6 @@
 ---
 title: Resources
-subtitle: Teaching material, guidelines for package development, ...
+subtitle: Tutorials, cheatsheets & best practices around the world ...
 comments: true
 tutorials-list:
   - name: Introduction to R in Vietnamese
