@@ -9,7 +9,7 @@ tutorials-list:
     desc: Basic introduction to R,  including factors, lists and data frames, created by Anh Hoang Duc, cooperated with DataCamp
 cheatsheet-list:
   - name: Base R cheatsheet
-    img: /img/tutorials/r.png
+    img: /img/tutorials/r2.jpg
     url:  https://www.rstudio.com/wp-content/uploads/2016/07/Base-R-Vietnamese.pdf
     desc: Basic syntax and object in R, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
   - name: Data manipulation in R with TIDY & DPLYR cheatsheet
@@ -24,17 +24,11 @@ cheatsheet-list:
     img: /img/tutorials/rmarkdown.png
     url:  https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-Vietnamese.pdf
     desc: All you need to know to make reproducible research, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
-devel-list:
-  - name: Best practices
+team-list:
+  - name: Basic introduction to Logistic Regression
     img: /img/devel/purple.png
-    desc: Guidelines for package development.
-    github: guidelines
-    url: guidelines
-  - name: Review
-    img: /img/devel/yellow.png
-    desc: Reviewing packages for RECON.
-    github: review
-    url: review
+    desc: Basic introduction to Logistic Regression, created by Ho Duc Ninh
+    url: logistic-regression.html
 ---
 
 
@@ -58,9 +52,9 @@ devel-list:
 
 
 
-# Development tips
+# Analytics team's tutorials
 
-{% include list-circles.html items=page.devel-list %}
+{% include list-circles.html items=page.team-list %}
 
 
 <br>
