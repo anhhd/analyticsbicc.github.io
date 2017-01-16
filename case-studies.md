@@ -11,7 +11,7 @@ rbd-list:
 ibd-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
-    url: /Case studies/basket-analysis.md
+    url: "/Case studies/basket-analysis"
     img: /img/projects/purple.png
 cbd-list:
   - name: cleanr
