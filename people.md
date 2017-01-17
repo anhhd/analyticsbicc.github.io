@@ -91,8 +91,6 @@ and promote the development of data analytics projects.
 
 {% include list-circles.html items=page.analytics-list %}
 
-<br>
-
 {% include list-circles.html items=page.analytics2-list %}
 
 ## RBD
