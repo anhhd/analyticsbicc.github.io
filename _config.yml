@@ -9,7 +9,7 @@ description: We are a group of best Data Analysts in VPBank, from various depart
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Plan: "plan.html"
+  Plan: "plan"
   Case Studies: "case-studies"
   Resources: "resources"
   People: "people"
