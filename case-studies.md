@@ -4,7 +4,7 @@ bigimg: /img/banners/devel.jpg
 ibd-list:
   - name: Cross sell internet banking
     desc: Using basket analysis to identify potential internet banking customers
-    url: 2017-01-16-basket-analysis
+    url: ibd-basket-analysis
     img: /img/projects/blue.png
 cbd-list:
   - name: Cross sell BIL
@@ -12,23 +12,19 @@ cbd-list:
     url: sme-cross-selling-bil
     img: /img/projects/purple.png
 rbd-list:
-  - name: cleanr
-    desc: Rationalised and reproducible data cleaning.
-    github: http://github.com/Hackout3/cleanr
-    url: http://github.com/Hackout3/cleanr
+  - name: Effect of credit card declined transaction
+    desc: Estimating effects of credit card declined transaction & propose solution
+    url: rbd-reduced-declined-credit-card-transaction
     img: /img/projects/blue.png
-  - name: dibbler
-    desc: Investigation of food-borne disease outbreaks.
-    github: http://github.com/thibautjombart/dibbler
-    url: http://github.com/thibautjombart/dibbler
+  - name: Cross sell credit card & UPL
+    desc: Using Logistic Regression to cross sell Credit Card & UPL
+    url: rbd-cross-selling-credit-upl
     img: /img/projects/green.png
-  - name: distcrete
-    desc: Discretized probability distributions.
-    github: http://github.com/reconhub/distcrete
-    url: http://github.com/reconhub/distcrete
+  - name: Reduce credit card attrition
+    desc: Using Gradient Boosting Machine & bulding customer profile to redict credit card attritors 
+    url: rbd-credit-card-attrition
     img: /img/projects/yellow.png
 ---
-
 
 
 <br>

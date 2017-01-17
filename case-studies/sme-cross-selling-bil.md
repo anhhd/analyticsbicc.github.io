@@ -53,8 +53,8 @@ Before customers were targeted, 2 actions were taken by the product department i
 
 For more information, please contact:
 
-- Head of CBD Department - Ms. [Tran Thu Trang](trangtt6@vpbank.com.vn)
-- Advanced Analytics team leader - Mr. [Anh Hoang Duc](anhhd3@vpbank.com.vn)
+- Head of CBD Department - [Ms. Tran Thu Trang](trangtt6@vpbank.com.vn)
+- Advanced Analytics team leader - [Mr. Anh Hoang Duc](anhhd3@vpbank.com.vn)
 
 
 

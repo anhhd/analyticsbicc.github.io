@@ -54,9 +54,9 @@ bringing in 1.5 Billion VND of total TOI impact.
 
 For more information, please contact:
 
-- Head of CBD Department - Ms. [Tran Thu Trang](trangtt6@vpbank.com.vn)
-- Head of IBD Department - Mr. [Pham Ngoc Thuan](thuanpn4@vpbank.com.vn)
-- Advanced Analytics team leader - Mr. [Anh Hoang Duc](anhhd3@vpbank.com.vn)
+- Head of CBD Department - [Ms. Tran Thu Trang](trangtt6@vpbank.com.vn)
+- Head of IBD Department - [Mr. Pham Ngoc Thuan](thuanpn1@vpbank.com.vn)
+- Advanced Analytics team leader - [Mr. Anh Hoang Duc](anhhd3@vpbank.com.vn)
 
 
 
