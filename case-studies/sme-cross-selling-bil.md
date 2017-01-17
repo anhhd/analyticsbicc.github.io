@@ -5,7 +5,7 @@ tag: CBD
 bigimg: /img/banners/big_epi_image.jpg
 ---
 
-**Data scientists**: Mr. Anh Hoang Duc, Mr. Dang Tuan Vu
+**Data scientists**: Mr. Dang Tuan Vu, Mr. Anh Hoang Duc
 
 **BI supporters**: Ms. Nguyen Thi Nhu Quynh (CBD)
 

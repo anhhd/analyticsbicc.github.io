@@ -4,7 +4,7 @@ layout: page
 tag: RBD
 bigimg: /img/banners/big_epi_image.jpg
 ---
-**Data scientists**: Mr. Anh Hoang Duc, Ms. Le Thuy Linh
+**Data scientists**: Ms. Le Thuy Linh, Mr. Anh Hoang Duc
 
 **BI supporters**: Ms. Tran Thi Dao (RBD)
 
