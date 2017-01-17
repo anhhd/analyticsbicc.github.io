@@ -3,16 +3,16 @@ title: Team members
 subtitle: Advanced Analytics
 board-list:
   - name: Tran Thu Trang
-    img: /img/people/gabor-csardi.jpg
+    img: /img/people/tran-thu-trang.jpg
     desc: Head of CBD department 
   - name: Hoang Manh Cuong
-    img: /img/people/gabor-csardi.jpg
+    img: /img/people/hoang-manh-cuong.jpg
     desc: Head of RBD department 
   - name: Phuong Mai Huy
-    img: /img/people/gabor-csardi.jpg
+    img: /img/people/mai-huy-phuong.jpg
     desc: Head of RBD department 
   - name: Pham Ngoc Thuan
-    img: /img/people/anh-hoang-duc.JPG
+    img: /img/people/pham-ngoc-thuan.JPG
     desc: Head of IBD deparment
   - name: Le Tien Dung
     img: /img/people/le-tien-dung.png
@@ -53,7 +53,7 @@ rbd-list:
     img: /img/people/tran-thi-dao.jpg
     desc: Vietnam University of Commerce, 10+ years in banking sector, great bank product sense and extremely efficient in deep analyzing in finance and business. 
   - name: Nguyen Hai Truong
-    img: /img/people/nguyen-hai-truong.jpg
+    img: /img/people/nguyen-hai-truong.png
     desc: Bachelor degree in Mathematical Economics at Odessa, Russia, experienced in banking sector with a good base of logical thinking and business sense.
 other-list:
   - name: Dao Thu Ha
