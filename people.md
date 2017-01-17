@@ -39,7 +39,7 @@ sponsor-list:
 analytics-list:
   - name: Anh Hoang Duc
     img: /img/people/anh-hoang-duc.JPG
-    desc: Advanced Analytics team leader, master in Quantitative Methods in Economics, instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics, joined VPBank in Jun, 2016
+    desc: Advanced Analytics team leader, master in Quantitative Methods in Economics, instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics & various fields of Business Analytics, joined VPBank in Jun, 2016
     website: anhhd3@vpbank.com.vn
 analytics2-list:
   - name: Linh Le Thuy
@@ -109,14 +109,14 @@ and promote the development of data analytics projects.
 
 ## Advisory board
 
-We are very lucky to have the following managers for supporting and guiding our efforts in all projects.
+We are very lucky to have the following fantastic managers for supporting and guiding our efforts in all projects.
 
 {% include list-circles.html items=page.board-list %}
 
 
 ## Sponsorship
 
-Advanced Analytics team also benefits significantly from some outstanding head of division.
+Advanced Analytics team also benefits significantly from our outstanding head of division.
 
 {% include list-circles.html items=page.sponsor-list %}
 
