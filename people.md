@@ -5,84 +5,64 @@ board-list:
   - name: Tran Thu Trang
     img: /img/people/gabor-csardi.jpg
     desc: Head of CBD department 
-    website: http://gaborcsardi.org/
   - name: Hoang Manh Cuong
     img: /img/people/gabor-csardi.jpg
     desc: Head of RBD department 
-    website: http://gaborcsardi.org/
   - name: Phuong Mai Huy
     img: /img/people/gabor-csardi.jpg
     desc: Head of RBD department 
-    website: http://gaborcsardi.org/
   - name: Pham Ngoc Thuan
     img: /img/people/anh-hoang-duc.JPG
     desc: Head of IBD deparment
-    website: anhhd3@vpbank.com.vn
   - name: Le Tien Dung
-    img: /img/people/anh-hoang-duc.JPG
+    img: /img/people/le-tien-dung.jpg
     desc: Data Quality team leader
-    website: anhhd3@vpbank.com.vn
   - name: Nguyen Minh Duc
-    img: /img/people/anh-hoang-duc.JPG
+    img: /img/people/anh-hoang-duc.jpg
     desc: Head of DG department
-    website: anhhd3@vpbank.com.vn
   - name: Pham Dinh Duc
-    img: /img/people/anh-hoang-duc.JPG
+    img: /img/people/anh-hoang-duc.jpg
     desc: Data Governance team leader
-    website: anhhd3@vpbank.com.vn
 sponsor-list:
   - name: Vivek Bhanot
-    img: /img/people/vivek-bhanot.jpg
-    website: http://www.imperial.ac.uk/people/j.hayward
-    url: http://www.imperial.ac.uk/people/j.hayward
+    img: /img/people/vivek-bhanot.png
     desc: Head of Business Intelligence Competency Center
 analytics-list:
   - name: Anh Hoang Duc
-    img: /img/people/anh-hoang-duc.JPG
-    desc: Advanced Analytics team leader, master in Quantitative Methods in Economics, instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics & various fields of Business Analytics, joined VPBank in Jun, 2016
-    website: anhhd3@vpbank.com.vn
+    img: /img/people/anh-hoang-duc.jpg
+    desc: Advanced Analytics team leader, master in Quantitative Methods in Economics in Warsaw School of Business, Poland. Instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics & various fields of Business Analytics, joined VPBank in Jun, 2016
 analytics2-list:
   - name: Linh Le Thuy
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
+    img: /img/people/le-thuy-linh.jpg
+    desc: Shanghai University of Finance and Economics BA,  University of North Carolina Charlotte MBA in Business Analytics. Professional experience in China, US and Vietnam in analyzing data in various domains of banking, education, NGOs, retail and automotive technology, Senior Data Analyst at VPBank Oct,2016
   - name: Ho Duc Ninh
     img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
+    desc: Master in Business Engineering at HEC-University of Liege, Belgium with strong background of programming & mathematics, joined VPBank in Dec, 2016.
 cbd-list:
   - name: Dang Tuan Vu
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
+    img: /img/people/dang-tuan-vu.png
+    desc: Bachelor in Applied Mathematics in Economics, NEU, with strong math background, Business Analyst in SME Department of BICC – VPBank since Jul, 2015
   - name: Le Thanh Tuan
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
+    img: /img/people/le-thanh-tuan.jpg
+    desc: Master degree in MSc Finance, Coventry University, UK. 4 years working experience in civil engineering, business analyst in CBD since Feb, 2016
 rbd-list:
   - name: Nguyen Minh Thanh
-    img: /img/people/anh-hoang-duc.JPG
-    desc: Advanced Analytics team leader, master in Quantitative Methods in Economics, instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics, joined VPBank in Jun, 2016
-    website: anhhd3@vpbank.com.vn
+    img: /img/people/nguyen-minh-thanh.jpg
+    desc: Master degree in Finance at Coventry University, UK. Business analyst at RBD - VPBank since July, 2016, good sense of BA, BI and building customer relationships
   - name: Tran Thi Dao
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
+    img: /img/people/tran-thi-dao.jpg
+    desc: Vietnam University of Commerce, 10+ years in banking sector, great bank product sense and extremely efficient in deep analyzing in finance and business. 
   - name: Nguyen Hai Truong
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
+    img: /img/people/nguyen-hai-truong.jpg
+    desc: Bachelor degree in Mathematical Economics at Odessa, Russia, experienced in banking sector with a good base of logical thinking and business sense.
 other-list:
   - name: Dao Thu Ha
-    img: /img/people/anh-hoang-duc.JPG
-    desc: Advanced Analytics team leader, master in Quantitative Methods in Economics, instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics, joined VPBank in Jun, 2016
-    website: anhhd3@vpbank.com.vn
+    img: /img/people/dao-thu-ha.jpg
+    desc: Master degree in Accounting and Finance, Warwick University, UK, experienced in BI in ecommerce industry for more than 2 years, senior Business Analyst in VPBank since Sep, 2016.
   - name: Nguyen Thi Mai Quynh
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
+    img: /img/people/nguyen-thi-mai-quynh.jpg
+    desc: A bright, talented and self-motivated data analyst with excellent organizational skills, having good eyes for detail & business sense, holding bachelor degree in Finance & Banking at NEU, joined VPBank since 2012 
 ---
-
 
 
 We are a group of people who believe in value of data analytics, willing to share our time and expertise to lead, facilitate, advise, 
