@@ -15,13 +15,13 @@ board-list:
     img: /img/people/anh-hoang-duc.JPG
     desc: Head of IBD deparment
   - name: Le Tien Dung
-    img: /img/people/le-tien-dung.jpg
+    img: /img/people/le-tien-dung.png
     desc: Data Quality team leader
   - name: Nguyen Minh Duc
-    img: /img/people/anh-hoang-duc.jpg
+    img: /img/people/nguyen-minh-duc.JPG
     desc: Head of DG department
   - name: Pham Dinh Duc
-    img: /img/people/anh-hoang-duc.jpg
+    img: /img/people/pham-dinh-duc.png
     desc: Data Governance team leader
 sponsor-list:
   - name: Vivek Bhanot
@@ -29,14 +29,14 @@ sponsor-list:
     desc: Head of Business Intelligence Competency Center
 analytics-list:
   - name: Anh Hoang Duc
-    img: /img/people/anh-hoang-duc.jpg
+    img: /img/people/anh-hoang-duc.JPG
     desc: Advanced Analytics team leader, master in Quantitative Methods in Economics in Warsaw School of Business, Poland. Instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics & various fields of Business Analytics, joined VPBank in Jun, 2016
 analytics2-list:
   - name: Linh Le Thuy
     img: /img/people/le-thuy-linh.jpg
     desc: Shanghai University of Finance and Economics BA,  University of North Carolina Charlotte MBA in Business Analytics. Professional experience in China, US and Vietnam in analyzing data in various domains of banking, education, NGOs, retail and automotive technology, Senior Data Analyst at VPBank Oct,2016
   - name: Ho Duc Ninh
-    img: /img/people/thibaut-jombart.jpg
+    img: /img/people/ho-duc-ninh.JPG
     desc: Master in Business Engineering at HEC-University of Liege, Belgium with strong background of programming & mathematics, joined VPBank in Dec, 2016.
 cbd-list:
   - name: Dang Tuan Vu
