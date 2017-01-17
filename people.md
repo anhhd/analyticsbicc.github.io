@@ -37,7 +37,7 @@ analytics2-list:
     desc: Shanghai University of Finance and Economics BA,  University of North Carolina Charlotte MBA in Business Analytics. Professional experience in China, US and Vietnam in analyzing data in various domains of banking, education, NGOs, retail and automotive technology, Senior Data Analyst at VPBank Oct,2016
   - name: Ho Duc Ninh
     img: /img/people/ho-duc-ninh.jpg
-    desc: Master in Business Engineering at HEC-University of Liege, Belgium with strong background of programming & mathematics, joined VPBank in Dec, 2016.
+    desc: Master in Business Engineering at HEC-University of Liege, Belgium with strong background of programming & mathematics, experienced in banking sector with very good logical thinking & data-orientation problem soving, joined VPBank in Dec, 2016.
 cbd-list:
   - name: Dang Tuan Vu
     img: /img/people/dang-tuan-vu.png
