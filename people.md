@@ -18,7 +18,7 @@ board-list:
     img: /img/people/le-tien-dung.png
     desc: Data Quality team leader
   - name: Nguyen Minh Duc
-    img: /img/people/nguyen-minh-duc.JPG
+    img: /img/people/nguyen-minh-duc.jpg
     desc: Head of DG department
   - name: Pham Dinh Duc
     img: /img/people/pham-dinh-duc.png
