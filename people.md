@@ -41,6 +41,7 @@ analytics-list:
     img: /img/people/anh-hoang-duc.JPG
     desc: Advanced Analytics team leader, master in Quantitative Methods in Economics, instructor of RStudio, DataCamp in Vietnam, experienced in Digital Analytics, Mobile Analytics, joined VPBank in Jun, 2016
     website: anhhd3@vpbank.com.vn
+analytics2-list:
   - name: Linh Le Thuy
     img: /img/people/thibaut-jombart.jpg
     desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
@@ -82,13 +83,17 @@ other-list:
     website: https://sites.google.com/site/thibautjombart/
 ---
 
-## Analytics team
+
 
 We are a group of people who believe in value of data analytics, willing to share our time and expertise to lead, facilitate, advise, 
 and promote the development of data analytics projects.
 
+
 {% include list-circles.html items=page.analytics-list %}
 
+<br>
+
+{% include list-circles.html items=page.analytics2-list %}
 
 ## RBD
 
@@ -116,3 +121,12 @@ We are very lucky to have the following managers for supporting and guiding our 
 Advanced Analytics team also benefits significantly from some outstanding head of division.
 
 {% include list-circles.html items=page.sponsor-list %}
+
+
+Last but not least, we appriciate supports from all other BI members who help & share their deep knowledge about both business problems & data structure in VPBank.
+
+**Together, we are the best!**
+ 
+
+
+
