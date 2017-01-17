@@ -5,15 +5,15 @@
 
 **Advanced Analytics** team assembles a group of best analysts in BICC from all departments, including CBD, RBD, OBD & IBD. 
 Closely cooperating with other BI departments & Business Units, we strongly believe 
-that the most competitive advantage of any organization nowaday is built based on 3 foundations: 
+that the most competitive advantage of any organization nowadays is built based on 3 foundations: 
 
 1. Leadership & Innovation 
 2. Ethics & Bravery 
 3. Data-Driven Strategy with Great Execution.
 
-Understanding the importance of data analytics in the bank, we perform various analysis projects, including 
+Understanding the importance of **data analytics** in the bank, we perform various analysis projects, including 
 multivariate analysis, time series & predictive modelling in many fields. All projects are to solve a specific business problem or 
-to help Business Units understand their customers from **data-driven** aspects, thereby maximizing value from data for the whole bank. 
+to help Business Units understand their customers from **data-driven aspects**, thereby maximizing value from data for the whole bank. 
 
 The purposes of this website are to:
 
