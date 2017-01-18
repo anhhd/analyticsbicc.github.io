@@ -1,6 +1,6 @@
 ---
 title: Featured case studies
-bigimg: /img/banners/devel.jpg
+bigimg: /img/banners/projects-2.jpg
 ibd-list:
   - name: Cross sell internet banking
     desc: Using basket analysis to identify potential internet banking customers
