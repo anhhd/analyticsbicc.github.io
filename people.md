@@ -3,13 +3,13 @@ title: Team members
 subtitle: Advanced Analytics
 board-list:
   - name: Tran Thu Trang
-    img: /img/people/tran-thu-trang.jpg
+    img: /img/people/tran-thu-trang.JPG
     desc: Head of CBD department 
   - name: Hoang Manh Cuong
-    img: /img/people/hoang-manh-cuong.jpg
+    img: /img/people/hoang-manh-cuong.JPG
     desc: Head of RBD department 
   - name: Phuong Mai Huy
-    img: /img/people/mai-huy-phuong.jpg
+    img: /img/people/mai-huy-phuong.JPG
     desc: Head of RBD department 
   - name: Pham Ngoc Thuan
     img: /img/people/pham-ngoc-thuan.JPG
