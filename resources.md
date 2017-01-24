@@ -28,7 +28,7 @@ team-list:
   - name: Basic introduction to Logistic Regression
     img: /img/devel/purple.png
     desc: Basic introduction to Logistic Regression, created by Ho Duc Ninh
-    url: logistic-regression.html
+    url: https://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/Logistic_Regression.html
 ---
 
 
