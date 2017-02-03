@@ -34,7 +34,7 @@ analytics-list:
 analytics2-list:
   - name: Linh Le Thuy
     img: /img/people/le-thuy-linh.jpg
-    desc: Shanghai University of Finance and Economics BA,  University of North Carolina Charlotte MBA in Business Analytics. Professional experience in China, US and Vietnam in analyzing data in various domains of banking, education, NGOs, retail and automotive technology, Senior Data Analyst at VPBank Oct,2016
+    desc: University of North Carolina Charlotte - MBA in Business Analytics. Professional experience in China, US and Vietnam in analyzing data in various domains of banking, education, NGOs, retail and automotive technology, Senior Data Analyst at VPBank Oct,2016
   - name: Ho Duc Ninh
     img: /img/people/ho-duc-ninh.jpg
     desc: Master in Business Engineering at HEC-University of Liege, Belgium with strong background of programming & mathematics, experienced in banking sector with very good logical thinking, business sense & data-orientation problem soving, joined VPBank in Dec, 2016.
