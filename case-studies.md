@@ -9,7 +9,7 @@ ibd-list:
 cbd-list:
   - name: Cross sell BIL
     desc: Using basket analysis & multivariate analysis to cross sell BIL
-    url: sme-cross-selling-bil
+    url: cbd-cross-selling-bil
     img: /img/projects/purple.png
 rbd-list:
   - name: Effect of credit card declined transaction

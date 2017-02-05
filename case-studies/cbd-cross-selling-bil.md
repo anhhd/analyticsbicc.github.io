@@ -13,14 +13,14 @@ bigimg: /img/banners/big_epi_image.jpg
 
 ## Challenge
 
-  Since the end of 2015, SME has been concentrating on developing unsecured loan portfolio. Out of all types of unsecured loans, 
+  Since the end of 2015, SMEs division has been concentrating on developing unsecured loan portfolio. Out of all types of unsecured loans, 
   BIL is the most profitable one. 
   However, out of all customers having SME loans, only 11% customers have BIL with 40% of them having/had at least 2 BIL contracts. 
-  The challenge for SME business is to find the most potential customers for cross selling BIL 
+  The challenge for SME business is to find the most potential customers for cross selling BIL. 
 
 ## Methodology
 
-In order to find the potential customers for cross selling BIL, BICC analyzed customer demographic and product holding data of SME loan customers. 
+In order to find the potential customers for cross selling BIL, BICC analyzed customer demographics and product holding data of SME loan customers. 
 BICC then used 2 methods - **basket analysis** and **multivariate analysis** to identify the potential customers. 
 **Multivariate analysis** (MVA) is based on the statistical principle of multivariate statistics, 
 which involves observation and analysis of more than one statistical outcome variable at a time

@@ -65,7 +65,7 @@ other-list:
 ---
 
 
-We are a group of people who believe in value of data analytics, willing to share our time and expertise to lead, facilitate, advise, 
+We are a group of people who believe in the value of data analytics, and are willing to share our time and expertise to lead, facilitate, advise, 
 and promote the development of data analytics projects.
 
 

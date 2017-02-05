@@ -3,9 +3,9 @@
 
 !<img src="/img/home.jpg"/>
 
-**Advanced Analytics** team assembles a group of best analysts in BICC from all departments, including CBD, RBD, OBD & IBD. 
-Closely cooperating with other BI departments & Business Units, we strongly believe 
-that the most competitive advantage of any organization nowadays is built based on 3 foundations: 
+**Advanced Analytics** team assembles a group of best analysts in BICC from all departments, 
+including CBD, RBD, OBD & IBD. Closely cooperating with other BI departments & Business Units, 
+we strongly believe that the most competitive advantage of any organization nowadays is built based on 3 foundations:
 
 1. Leadership & Innovation 
 2. Ethics & Bravery 

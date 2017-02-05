@@ -14,23 +14,34 @@ bigimg: /img/banners/big_epi_image.jpg
 
 ## Challenge 
 
-  As part of its overall digitalization efforts, VPBank is focused on migrating more and more customers from traditional channels to 
-  digital channels for transactions and even acquisition. 
-  This will result in an enhanced customer experience as well as lower operational cost for the bank. However, 
-  with only 11% of customers registered for internet banking channel, the task is going to be mammoth. 
+  As part of its overall digitalization efforts, VPBank is focusing on migrating 
+  more and more customers from traditional channels to digital channels for transactions and even acquisitions. 
+  This will result in an enhanced customer experience as well as a lower operational cost for the bank. 
+  However, with only 11% of customers registered for an Internet Banking account, the task is going to be mammoth. 
   The challenge is to identify the most suitable customers for migration who can be targeted first.
+  
+  
   
 ## Methodology
 
-  In order to find the potential customers for cross selling i2b, BICC analyzed the product holding data of all customers who hold at least one retail or SME product. 
-  To identify the potential customers, BICC then used **basket analysis** which is
-  a mathematical model to explore behavior of customers and is based on the theory that if a customer buys a certain group of items, he/she is likely to buy another group of items.
+  In order to find potential customers for cross-selling internet banking, 
+  BICC analyzed the product holding data of all customers who hold at least one retail or SME product. 
+  To identify the potential customers, 
+  BICC then used **basket analysis**, which is a mathematical model used to explore behavior of customers and is based on the theory that 
+  if a customer buys a certain group of items, 
+  he/she is likely to buy another group of items.
+  
+  
+  
   
 ## Results and Recommendations
 
-The basket analysis revealed most **potential scenarios** of customer product holding which will lead to a customer buying internet banking product. 
-Based on these scenarios, BICC recommended to target **more than 30K and almost 4K customers** from retail and SME respectively. 
-In addition to this, BICC also recommended the product teams to create **product bundles** for **future acquisition** based on these scenarios. 
+The basket analysis revealed the most potential scenarios of customer product holding which would lead to a customer buying 
+the Internet Banking product. 
+Based on these scenarios, 
+BICC recommended to target **more than 30K** and **almost 4K customers** from Retail and SME division respectively. 
+In addition to this, BICC also recommended the product teams to create product bundles for future acquisition based on these scenarios.
+
 
 ## Implementation and Business Impact
 
@@ -46,8 +57,9 @@ In addition to this, BICC also recommended the product teams to create **product
 
 ### Business Impact
 
-BICC estimate the TOI impact after converting all potential retail and SME customers is: **52 Billion VND per year**. 
-As of 20 Sep, 2016, a total of almost **1,300 retail** and SME customers have been converted to i2b already (**3% conversion rate - 3 times** higher than normal), 
+BICC estimated the TOI impact after converting all potential retail and SME customers is: **52 Billion VND per year**. 
+As of 20 Sep, 2016, a total of almost **1,300 retail and SME customers** have been converted to internet banking already 
+(**3% conversion rate - 3 times** higher than normal), 
 bringing in 1.5 Billion VND of total TOI impact.
 
 ## Project in detail

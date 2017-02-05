@@ -2,8 +2,8 @@
 title: Contact us
 ---
 
-If you want to know more about analytics, including working model, tutorial or best case studies in VPBank, fell free to
-get in touch with **Analytics team**, you can either email <a href="mailto:anhhd3@vpbank.com.vn">Anh Hoang Duc</a> or fill out the form below. 
+If you want to know more about analytics, including working model, tutorial or best case studies in VPBank, feel free to
+get in touch with the **Analytics team**. Please email <a href="mailto:anhhd3@vpbank.com.vn">Mr. Anh Hoang Duc</a> or fill out the form below. 
 
 <form action="https://formspree.io/anhhd3@vpbank.com.vn" method="POST" class="form" id="contact-form">
   <div class="row">
