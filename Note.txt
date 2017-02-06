@@ -1,0 +1,4 @@
+To customize domain:
+
+1. Choose custom domain from your domain
+2. In DNS provider, select IP 192.30.252.153
