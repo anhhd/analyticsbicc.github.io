@@ -1,7 +1,7 @@
 ---
 ---
 
-!<img src="/img/home.jpg"/>
+<img src="/img/home.jpg"/>
 
 **Advanced Analytics** team assembles a group of best analysts in BICC from all departments, 
 including CBD, RBD, OBD & IBD. Closely cooperating with other BI departments & Business Units, 
