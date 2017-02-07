@@ -7,4 +7,4 @@
 
 # Training plan
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=http://www.thehansindia.com/assets/8095_IIT_Hyderabad.jpg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='850' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jaVTByKBng8OC8v1U5uWyQWOTCw-wx3WqPVfOx1x3ZU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='850' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
