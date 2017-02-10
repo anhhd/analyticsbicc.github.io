@@ -4,16 +4,16 @@ subtitle: Advanced Analytics
 board-list:
   - name: Tran Thu Trang
     img: /img/people/tran-thu-trang.jpg
-    desc: Head of CBD department 
+    desc: Head of CBD
   - name: Hoang Manh Cuong
     img: /img/people/hoang-manh-cuong.jpg
-    desc: Head of RBD department 
+    desc: Head of RBD 
   - name: Phuong Mai Huy
     img: /img/people/mai-huy-phuong.jpg
-    desc: Head of RBD department 
+    desc: Head of OBD 
   - name: Pham Ngoc Thuan
     img: /img/people/pham-ngoc-thuan.jpg
-    desc: Head of IBD deparment
+    desc: Head of IBD
   - name: Le Tien Dung
     img: /img/people/le-tien-dung.png
     desc: Data Quality team leader
