@@ -1,31 +1,5 @@
 ---
----
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
-
-
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
-
+customjs:
 <script type="text/javascript">
         String.prototype.hashCode = function () {
             var hash = 0, i, chr, len;
@@ -57,14 +31,8 @@
             }
         })
     </script>
+---
 
-	
-</body>
-</html>
-
-
-
-	
 <img src="/img/home.jpg"/>
 
 **Advanced Analytics** team assembles a group of best analysts in BICC from all departments, 
