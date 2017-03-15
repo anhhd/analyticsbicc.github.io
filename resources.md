@@ -25,7 +25,7 @@ cheatsheet-list:
     url:  https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-Vietnamese.pdf
     desc: All you need to know to make reproducible research, translated by Anh Hoang Duc & Pham Dinh Duc, created by RStudio
 team-list:
-  - name: Basic introduction to Logistic Regression
+  - name: Logistic Regression
     img: /img/devel/purple.png
     desc: Basic introduction to Logistic Regression, created by Nguyen Hai Truong
     url: logistic-regression.html
