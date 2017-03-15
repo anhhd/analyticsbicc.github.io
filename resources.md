@@ -29,16 +29,18 @@ team-list:
     img: /img/devel/purple.png
     desc: Basic introduction to Logistic Regression, created by Nguyen Hai Truong
     url: logistic-regression.html
+	website: https://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/logistic-regression.html
   - name: Market basket analysis
     img: /img/devel/red.png
     desc: Market basket analysis with R, created by Le Thuy Linh
     url: market-basket-analysis.html
+	website: https://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/market_basket_analysis.html
   - name: Cohort analysis
     img: /img/devel/yellow.png
     desc: Cohort analysis, created by Dao Thu Ha & Nguyen Minh Thanh
     url: cohort-analysis.html
+	website: https://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/cohort_analysis.html
 ---
-
 
 # Tutorials
 
