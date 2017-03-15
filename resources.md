@@ -37,7 +37,6 @@ team-list:
     img: /img/devel/yellow.png
     desc: Cohort analysis, created by Dao Thu Ha & Nguyen Minh Thanh
     url: cohort-analysis.html
-	website: https://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/cohort_analysis.html
 ---
 
 
