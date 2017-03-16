@@ -37,7 +37,6 @@ team-list:
     img: /img/devel/yellow.png
     desc: Cohort analysis, created by Dao Thu Ha & Nguyen Minh Thanh
     url: cohort-analysis.html
-	github: cohort-analysis.html
 ---
 
 
