@@ -21,7 +21,7 @@ rbd-list:
     url: rbd-cross-selling-credit-upl
     img: /img/projects/green.png
   - name: Reduce credit card attrition
-    desc: Using Gradient Boosting Machine & bulding customer profile to redict credit card attritors 
+    desc: Using Gradient Boosting Machine & bulding customer profile to predict credit card attritors 
     url: rbd-credit-card-attrition
     img: /img/projects/yellow.png
 ---
