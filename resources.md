@@ -27,15 +27,15 @@ cheatsheet-list:
 team-list:
   - name: Logistic Regression
     img: /img/devel/purple.png
-    desc: Basic introduction to Logistic Regression, created by Nguyen Hai Truong - [download here](arepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/logistic-regression.html)
+    desc: Basic introduction to Logistic Regression, created by Nguyen Hai Truong - ![download here](arepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/logistic-regression.html)
     url: logistic-regression.html
   - name: Market basket analysis
     img: /img/devel/red.png
-    desc: Market basket analysis with R, created by Le Thuy Linh - [download here](http://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/market_basket_analysis.html)
+    desc: Market basket analysis with R, created by Le Thuy Linh - ![download here](http://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/market_basket_analysis.html)
     url: market-basket-analysis.html
   - name: Cohort analysis
     img: /img/devel/yellow.png
-    desc: Cohort analysis, created by Dao Thu Ha & Nguyen Minh Thanh - [download here](https://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/cohort_analysis.html)
+    desc: Cohort analysis, created by Dao Thu Ha & Nguyen Minh Thanh - ![download here](https://vpb-my.sharepoint.com/personal/anhhd3_vpbank_com_vn/Documents/Analytics%20tutorials/cohort_analysis.html)
     url: cohort-analysis.html
 ---
 
