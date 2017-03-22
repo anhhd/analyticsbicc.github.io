@@ -6,6 +6,10 @@ ibd-list:
     desc: Using basket analysis to identify potential internet banking customers
     url: ibd-basket-analysis
     img: /img/projects/blue.png
+  - name: Online overdraft analysis
+    desc: Understanding usage behavior of online overdraft customers
+    url: ibd-overdraft
+    img: /img/projects/orange.png
 cbd-list:
   - name: Cross sell BIL
     desc: Using basket analysis & multivariate analysis to cross sell BIL
