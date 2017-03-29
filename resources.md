@@ -38,7 +38,7 @@ team-list:
     desc: Cohort analysis, created by Dao Thu Ha & Nguyen Minh Thanh
     url: cohort-analysis.html
   - name: Principal Component - Clustering Analysis
-    img: /img/devel/yellow.png
+    img: /img/devel/orange.png
     desc: Principal component analysis, k-means, hierarchical clustering, created by Dang Tuan Vu
     url: pca-clustering.html
 ---
