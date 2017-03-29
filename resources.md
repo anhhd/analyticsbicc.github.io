@@ -33,10 +33,14 @@ team-list:
     img: /img/devel/red.png
     desc: Market basket analysis with R, created by Le Thuy Linh
     url: market-basket-analysis.html
-  - name: Cohort analysis
+  - name: Cohort Analysis
     img: /img/devel/yellow.png
     desc: Cohort analysis, created by Dao Thu Ha & Nguyen Minh Thanh
     url: cohort-analysis.html
+  - name: Principal Component - Clustering Analysis
+    img: /img/devel/yellow.png
+    desc: Principal component analysis, k-means, hierarchical clustering, created by Dang Tuan Vu
+    url: pca-clustering.html
 ---
 
 
