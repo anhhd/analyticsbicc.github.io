@@ -41,6 +41,14 @@ team-list:
     img: /img/devel/orange.png
     desc: Principal component analysis, k-means, hierarchical clustering, created by Dang Tuan Vu
     url: pca-clustering.html
+  - name: Random Forest
+    img: /img/devel/purple.png
+    desc: Using Random Forest for better classification, created by Ho Duc Ninh
+    url: random-forest.html
+  - name: Boosting
+    img: /img/devel/red.png
+    desc: Adaboost & Gradient Boosting Machine in R, created by Nguyen Hai Truong & Nguyen Minh Thanh
+    url: boosting.html
 ---
 
 
