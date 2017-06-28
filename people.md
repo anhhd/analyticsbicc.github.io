@@ -17,6 +17,12 @@ board-list:
   - name: Le Tien Dung
     img: /img/people/le-tien-dung.png
     desc: Data Quality team leader
+  - name: Nguyen Minh Duc
+    img: /img/people/nguyen-minh-duc.jpg
+    desc: Head of DG department
+  - name: Pham Dinh Duc
+    img: /img/people/pham-dinh-duc.png
+    desc: Data Governance team leader
 sponsor-list:
   - name: Vivek Bhanot
     img: /img/people/vivek-bhanot.png
@@ -33,7 +39,10 @@ analytics2-list:
     img: /img/people/ho-duc-ninh.jpg
     desc: Master in Business Engineering at HEC-University of Liege, Belgium with strong background of programming & mathematics, experienced in banking sector with very good logical thinking, business sense & data-orientation problem soving, joined VPBank in Dec, 2016.
 cbd-list:
-   - name: Le Thanh Tuan
+  - name: Dang Tuan Vu
+    img: /img/people/dang-tuan-vu.png
+    desc: Bachelor in Applied Mathematics in Economics, NEU, with strong math background, Business Analyst in SME Department of BICC – VPBank since Jul, 2015
+  - name: Le Thanh Tuan
     img: /img/people/le-thanh-tuan.jpg
     desc: Master degree in MSc Finance, Coventry University, UK. 4 years working experience in civil engineering, business analyst in CBD since Feb, 2016
 rbd-list:
