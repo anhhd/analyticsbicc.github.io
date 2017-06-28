@@ -29,13 +29,6 @@ analytics2-list:
   - name: Ho Duc Ninh
     img: /img/people/ho-duc-ninh.jpg
     desc: Master in Business Engineering at HEC-University of Liege, Belgium with strong background of programming & mathematics, experienced in banking sector with very good logical thinking, business sense & data-orientation problem soving, joined VPBank in Dec, 2016.
-cbd-list:
-  - name: Dang Tuan Vu
-    img: /img/people/dang-tuan-vu.png
-    desc: Bachelor in Applied Mathematics in Economics, NEU, with strong math background, Business Analyst in SME Department of BICC – VPBank since Jul, 2015
-  - name: Le Thanh Tuan
-    img: /img/people/le-thanh-tuan.jpg
-    desc: Master degree in MSc Finance, Coventry University, UK. 4 years working experience in civil engineering, business analyst in CBD since Feb, 2016
 rbd-list:
   - name: Nguyen Minh Thanh
     img: /img/people/nguyen-minh-thanh.jpg
@@ -52,7 +45,10 @@ other-list:
     desc: Master degree in Accounting and Finance, Warwick University, UK, experienced in Business Intelligence in ecommerce industry for more than 2 years, senior Business Analyst in VPBank since Sep, 2016.
   - name: Nguyen Thi Mai Quynh
     img: /img/people/nguyen-thi-mai-quynh.jpg
-    desc: A bright, talented and self-motivated data analyst with excellent organizational skills, having good eyes for detail & business sense, holding bachelor degree in Finance & Banking at NEU, joined VPBank since 2012 
+    desc: A bright, talented and self-motivated data analyst with excellent organizational skills, having good eyes for detail & business sense, holding bachelor degree in Finance & Banking at NEU, joined VPBank since 2012
+  - name: Le Thanh Tuan
+    img: /img/people/le-thanh-tuan.jpg
+    desc: Master degree in MSc Finance, Coventry University, UK. 4 years working experience in civil engineering, business analyst in CBD since Feb, 2016
 ---
 
 
@@ -68,12 +64,7 @@ and promote the development of data analytics projects.
 
 {% include list-circles.html items=page.rbd-list %}
 
-## CBD
-
-{% include list-circles.html items=page.cbd-list %}
-
-
-### OBD & IBD
+### DBS, CBD & OBD
 
 {% include list-circles.html items=page.other-list %}
 
