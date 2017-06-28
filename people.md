@@ -11,18 +11,9 @@ board-list:
   - name: Phuong Mai Huy
     img: /img/people/mai-huy-phuong.jpg
     desc: Head of OBD 
-  - name: Pham Ngoc Thuan
-    img: /img/people/pham-ngoc-thuan.jpg
-    desc: Head of IBD
   - name: Le Tien Dung
     img: /img/people/le-tien-dung.png
     desc: Data Quality team leader
-  - name: Nguyen Minh Duc
-    img: /img/people/nguyen-minh-duc.jpg
-    desc: Head of DG department
-  - name: Pham Dinh Duc
-    img: /img/people/pham-dinh-duc.png
-    desc: Data Governance team leader
 sponsor-list:
   - name: Vivek Bhanot
     img: /img/people/vivek-bhanot.png
