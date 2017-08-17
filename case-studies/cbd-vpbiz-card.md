@@ -19,21 +19,19 @@ The data analysis project focusing on the VPBiz SME credit card customer lifecyc
   
 # Methodology
 
-1. Based on the initial objective and research questions from the BU, Andafin and BICC identify and collect the data needed for the project.
+Based on the initial objective and research questions from the BU, Andafin and BICC identify and collect the data needed for the project.
+The data collection process contains multiple loops of data collection, initial cleaning, review & checking data quality until either: the data needed for answering research questions is provided OR we can confirm that there is no data available that will help answer a research question.
+After finalizing data collection process, the project team moves on with:
 
-2. The data collection process contains multiple loops of data collection, initial cleaning, review & checking data quality until either: the data needed for answering research questions is provided OR we can confirm that there is no data available that will help answer a research question.
+- Detailed data cleaning: Check duplicated records and mapping keys, then review and revise category variables, re-define categories to make meaningful/analyzable categories, and create additional calculations/variables that will be useful for analysis.
 
-3. After finalizing data collection process, the project team moves on with:
+- Baseline analysis and double check against existing reports: Generate basic figures/graphs from the data. Ex.: whole portfolio size, customers count, cards counts, NPL ratio. Verify these figure with existing reports to ensure the accuracy of data collection and cleaning.
 
-* Detailed data cleaning: Check duplicated records and mapping keys, then review and revise category variables, re-define categories to make meaningful/analyzable categories, and create additional calculations/variables that will be useful for analysis.
+- Segment analysis and detailed analysis based on research questions: Re-output basic figures with segment data that may help answer research questions; pass to the project leader for review and insight generation.
 
-* Baseline analysis and double check against existing reports: Generate basic figures/graphs from the data. Ex.: whole portfolio size, customers count, cards counts, NPL ratio. Verify these figure with existing reports to ensure the accuracy of data collection and cleaning.
+- Based on the findings, decide on further analysis and proceed through several cycles until getting reasonable answers for research questions, subject to time and scope constraints.
 
-* Segment analysis and detailed analysis based on research questions: Re-output basic figures with segment data that may help answer research questions; pass to the project leader for review and insight generation.
-
-* Based on the findings, decide on further analysis and proceed through several cycles until getting reasonable answers for research questions, subject to time and scope constraints.
-
-4. Finalize the figures/reports, selecting from the hundreds of graphs generated during the project to focus on insightful figures that answer the research questions
+Finalize the figures/reports, selecting from the hundreds of graphs generated during the project to focus on insightful figures that answer the research questions
 
 # Results and Recommendations
 
