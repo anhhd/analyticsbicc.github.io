@@ -10,11 +10,19 @@ ibd-list:
     desc: Understanding usage behavior of online overdraft customers
     url: ibd-overdraft
     img: /img/projects/orange.png
+  - name: CASA online customers analysis
+    desc: Understanding usage behavior of digital users from CASA online channel
+    url: dbs-casa-online
+    img: /img/projects/purple.png
 cbd-list:
   - name: Cross sell BIL
     desc: Using basket analysis & multivariate analysis to cross sell BIL
     url: cbd-cross-selling-bil
     img: /img/projects/purple.png
+  - name: VPBiz credit card analysis
+    desc: Analyze VPBiz credit card users
+    url: cbd-vpbiz-card
+    img: /img/projects/orange.png
 rbd-list:
   - name: Effect of credit card declined transaction
     desc: Estimating effects of credit card declined transaction & propose solution
