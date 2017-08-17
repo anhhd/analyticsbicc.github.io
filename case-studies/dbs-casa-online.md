@@ -1,7 +1,7 @@
 ---
 title: CASA online customers analysis
 layout: page
-tag: CBD
+tag: IBD
 bigimg: /img/banners/big_epi_image.jpg
 ---
 

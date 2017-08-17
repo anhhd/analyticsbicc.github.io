@@ -23,6 +23,10 @@ cbd-list:
     desc: Analyze VPBiz credit card users
     url: cbd-vpbiz-card
     img: /img/projects/orange.png
+  - name: VPBiz credit card analysis 2
+    desc: Analyze VPBiz credit card users
+    url: dbs-casa-online2
+    img: /img/projects/orange.png
 rbd-list:
   - name: Effect of credit card declined transaction
     desc: Estimating effects of credit card declined transaction & propose solution
