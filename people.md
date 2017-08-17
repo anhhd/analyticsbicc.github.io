@@ -53,11 +53,6 @@ other-list:
     img: /img/people/le-thanh-tuan.jpg
     desc: Master degree in MSc Finance, Coventry University, UK. 4 years working experience in civil engineering, business analyst in CBD since Feb, 2016
 ---
-
-  - name: 
-	img: 
-	desc: 
-
 	
 We are a group of people who believe in the value of data analytics, and are willing to share our time and expertise to lead, facilitate, advise, 
 and promote the development of data analytics projects.
