@@ -43,9 +43,6 @@ other-list:
   - name: Dao Thu Ha
     img: /img/people/dao-thu-ha.jpg
     desc: Master degree in Accounting and Finance, Warwick University, UK, experienced in Business Intelligence in ecommerce industry for more than 2 years, senior Business Analyst in VPBank since Sep, 2016.
-  - name: Tran Quynh Trang
-	img: /img/people/tran-quynh-trang.jpg
-	desc: Master degree in Marketing Management at Aston University, UK. A proactive, keen learner with strong passion for analytics and excellent sense of organisation. Experienced in BI for an e-commerce marketplace, joined VPBank as a business intelligence analyst since Sep 2016
   - name: Nguyen Thi Mai Quynh
     img: /img/people/nguyen-thi-mai-quynh.jpg
     desc: A bright, talented and self-motivated data analyst with excellent organizational skills, having good eyes for detail & business sense, holding bachelor degree in Finance & Banking at NEU, joined VPBank since 2012
