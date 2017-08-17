@@ -11,13 +11,13 @@ bigimg: /img/banners/big_epi_image.jpg
 
 **Advisers**: Ms. Tran Thu Trang, Mr. Anh Hoang Duc
 
-# Challenge 
+# Business Problem 
 
 The VPBiz product has met with initial success, it has grown rapidly since 2015, the product had reached 2,665 companies, with a total of 8,895 VPBiz cards issused. From 2015 to the end of the data, the active company rate rose from around 50% to nearly 70%, with Platinum cardholders leading the way. 
 This rapid growth arises the demand to have better understand about VPBiz SME credit card. VPbiz credit card product analysis project was deployed with the cooperation between VPBank's SME BU, BICC departments and Andafin company.
 The data analysis project focusing on the VPBiz SME credit card customer lifecycle. Our goals were to better understand customer lifetime value (CLV), customer acquisition cost (CAC), customer engagement, and customer behavior by gender.
-  
-# Methodology
+
+# Methodology 
 
 Based on the initial objective and research questions from the BU, Andafin and BICC identify and collect the data needed for the project.
 The data collection process contains multiple loops of data collection, initial cleaning, review & checking data quality until either: the data needed for answering research questions is provided OR we can confirm that there is no data available that will help answer a research question.
@@ -33,7 +33,7 @@ After finalizing data collection process, the project team moves on with:
 
 Finalize the figures/reports, selecting from the hundreds of graphs generated during the project to focus on insightful figures that answer the research questions
 
-# Results and Recommendations
+# Results and Recommedations
 
 **Customer lifetime value**: We found that the CLV of the average VPBiz customer stands at 15.2 million VND, and VPBank spends an average of 900,000 VND on customer acquisition, for a customer NPV of 14.3 million VND per company. Unsecured contracts are far more valuable than secured contracts, and female-owned companies (based on the IFC definition) are somewhat more valuable than other companies, though this is in part because larger companies are more likely structured in a way that will satisfy the “female-owned” definition. Companies that use their cards in a supply chain relationship post several times the average CLV, along with higher retention.
 
@@ -49,12 +49,11 @@ Finalize the figures/reports, selecting from the hundreds of graphs generated du
 
 **Data usage at VPBank**: In addition to our product recommendations, we outlined a variety of findings and recommendations for VPBank to improve its data collection and analysis capabilities in the future.
 
-# Project in Detail
+## Project in detail
 
 For more information, please contact:
 
-- Head of CBD Department - Ms. Tran Thu Trang
-- Advanced Analytics team leader - Mr. Anh Hoang Duc
-
+- Head of CBD Department - [Ms. Tran Thu Trang](trangtt6@vpbank.com.vn)
+- Advanced Analytics team leader - [Mr. Anh Hoang Duc](anhhd3@vpbank.com.vn)
 
 
